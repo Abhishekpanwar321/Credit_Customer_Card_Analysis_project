@@ -1,139 +1,136 @@
-# Credit_Customer_Card_Analysis_project
-📊 Financial & Credit Card Analytics Dashboards (Power BI)
-📌 Project Overview
+📊 Credit Card Customer & Transaction Analysis Dashboard
 
-This project consists of two interactive Power BI dashboards designed to provide end-to-end financial and customer transaction insights. Together, they enable stakeholders to analyze organizational financial performance as well as credit card customer behavior and transaction trends in a unified, data-driven manner.
+Power BI | Data Analytics Project
 
-The dashboards focus on KPI monitoring, trend analysis, customer segmentation, risk assessment, and performance optimization.
+🔍 Project Overview
 
-🎯 Project Objectives
+This project focuses on analyzing credit card customer behavior and transaction patterns using interactive Power BI dashboards.
 
-Monitor overall financial health and profitability
+The goal was to transform raw financial data into clear business insights related to revenue, customer demographics, spending habits, delinquency risk, and transaction trends.
 
-Analyze revenue, cash flow, and EBITDA performance
+Two dashboards were developed:
 
-Understand credit card customer behavior and spending patterns
+✅ Credit Card Customer Report – Customer-focused insights
 
-Identify high-value customers and risk segments
+✅ Credit Card Transaction Report – Spending & transaction behavior analysis
 
-Support data-driven strategic and operational decisions
+📈 Dashboard 1: Credit Card Customer Report
+🎯 Key Business KPIs
 
-📈 Dashboard 1: Financial Performance Dashboard
-🔹 Key KPIs
+💰 Total Revenue: 10.98M
 
-Total Revenue: ₹24M
+👥 Total Customers: 10,293
 
-Gross Profit: ₹10.75M
+💳 Total Transaction Amount: 46M
 
-Gross Margin: 45.37%
+⚠️ Delinquency Rate: 6.06%
 
-EBITDA: ₹5.86M
+📊 Insights Covered
+💳 Revenue by Card Category
 
-EBITDA Margin: 21.47%
+Blue cards contribute the highest revenue share
 
-Net Cash: ₹688K
+Silver & Gold cards generate smaller but valuable segments
 
-🔹 Features
+📉 Credit Utilization Analysis
 
-Revenue and profit trends by month
+Transaction amount compared to total credit limit
 
-Cash inflow vs outflow analysis
+Helps identify spending behavior & risk exposure
 
-Product/service-wise revenue contribution
+💼 Customers by Income Group
 
-Receivables aging analysis
+Majority customers fall into medium-income group
 
-Budget vs actual revenue comparison
+High-income customers show stronger spending patterns
 
-Regional performance insights
+💡 Chip Usage Analysis
 
-🔹 Business Value
+Swipe dominates over chip & online transactions
 
-Provides a clear snapshot of financial stability, operational efficiency, and cash flow management, helping leadership track performance and plan strategically.
+📆 Monthly Revenue & Growth (MoM)
 
-📈 Dashboard 2: Credit Card Customer & Transaction Dashboard
-🔹 Key KPIs
+Clear seasonal spikes and dips
 
-Total Revenue: 10.98M
+Strong growth months: April, July, October, December
 
-Total Customers: 10,293
+📊 Dashboard 2: Credit Card Transaction Report
+🎯 Key Metrics
 
-Total Transaction Amount: 46M
+💵 Average Income: 57.09K
 
-Delinquency Rate: 6.06%
+⭐ Customer Satisfaction Score: 3.19
 
-Average Income: 57.09K
+👨‍👩‍👧 Average Dependents: 2.35
 
-Customer Satisfaction Score: 3.19
+📊 Insights Covered
+🧾 Transactions by Expense Type
 
-🔹 Features
+Top spending categories:
 
-Revenue by card category (Blue, Silver, Gold)
+Bills
 
-Transactions vs credit limit utilization
+Entertainment
 
-Customer segmentation by income, age, gender, education, and job type
+Fuel
 
-Transaction analysis by expense type and payment mode
+Grocery
 
-Weekly and monthly transaction trend analysis
+Food & Travel
 
-Geographic income distribution by state
+📊 Income & Spending by Age Group
 
-🔹 Business Value
+Highest income and transactions from 36–50 age group
 
-Enables financial institutions to understand customer behavior, optimize card offerings, manage credit risk, and improve customer engagement strategies.
+Spending decreases after 50+
 
-🎛️ Interactive Filters
+💼 Transactions by Profession
 
-Date / Week number
+Businessman contribute highest transaction volume
 
-Product / Service
+Followed by White-collar & Government employees
 
-Region / State
+📈 Weekly Transaction Trends
 
-Gender
+Week-over-week growth & decline patterns
 
-Age Group
+Helps track spending volatility
 
-Card Category
+🗺️ Income by State
 
-These filters allow deep-dive analysis and flexible exploration of insights.
+Geographic hotspots of high income contribution
 
-🛠️ Tools & Technologies
+🎓 Customers by Education Level
 
-Power BI – Data visualization and dashboard development
+Graduates form the largest customer segment
 
-DAX – KPI calculations and advanced measures
+🛠 Tools & Technologies Used
 
-Data Modeling – Relationship design and performance optimization
+Power BI (Data Modeling, DAX, Visualization)
 
-Excel / CSV datasets – Data sources
+Excel / CSV Dataset
 
-GitHub – Version control and project sharing
+KPI Design & Interactive Filters
 
-📊 Key Insights
+Business Intelligence Techniques
 
-Financial performance shows strong margins with stable profitability
+🚀 Business Value Delivered
 
-Revenue is concentrated in select products and card categories
+✔ Customer segmentation
+✔ Revenue performance monitoring
+✔ Risk & delinquency visibility
+✔ Spending behavior analysis
+✔ Trend-based decision support
 
-Medium-to-high income customers drive most transactions
+📌 Key Takeaways
 
-Blue card category dominates revenue, indicating concentration risk
+Blue card customers drive majority revenue
 
-Delinquency rate is controlled but requires ongoing monitoring
+Middle-aged professionals are core revenue contributors
 
-Spending patterns are skewed toward essential categories (bills, fuel, groceries)
+Bills & daily expenses dominate transaction categories
 
-🚀 Recommendations
+Seasonal patterns strongly affect revenue
 
-Diversify revenue across more products and card categories
+Education & income directly impact spending volume
 
-Improve receivables and delinquency monitoring for better cash flow
-
-Target high-value customer segments with personalized offers
-
-Optimize underperforming regions and customer groups
-
-Use trend analysis for forecasting and proactive decision-making
