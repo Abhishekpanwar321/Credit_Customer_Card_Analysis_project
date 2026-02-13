@@ -16,6 +16,7 @@ Two dashboards were developed:
 
 📈 Dashboard 1: Credit Card Customer Report
 🎯 Key Business KPIs
+Conclusion
 
 💰 Total Revenue: 10.98M
 
@@ -56,7 +57,7 @@ Strong growth months: April, July, October, December
 
 📊 Dashboard 2: Credit Card Transaction Report
 🎯 Key Metrics
-
+Conclusion
 💵 Average Income: 57.09K
 
 ⭐ Customer Satisfaction Score: 3.19
@@ -73,10 +74,6 @@ Bills
 Entertainment
 
 Fuel
-
-Grocery
-
-Food & Travel
 
 📊 Income & Spending by Age Group
 
